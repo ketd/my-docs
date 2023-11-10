@@ -1,0 +1,19 @@
+{
+  "statusBarOrder": [],
+  "ribbonBarOrder": [],
+  "fileExplorerOrder": {
+    "Android开发/笔记/Android项目结构": [
+      "Android开发/笔记/Android项目结构/项目文件.md",
+      "Android开发/笔记/Android项目结构/layout folder布局文件夹.md",
+      "Android开发/笔记/Android项目结构/mipmap.md"
+    ],
+    "/": [
+      "Android开发",
+      "Pasted image 20231110221419.png"
+    ]
+  },
+  "actionBarOrder": {},
+  "autoHide": false,
+  "autoHideDelay": 2000,
+  "dragDelay": 200
+}
