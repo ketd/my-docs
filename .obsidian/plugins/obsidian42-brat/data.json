@@ -1,5 +1,6 @@
 {
   "pluginList": [
+    "lazyloong/obsidian-code-tab",
     "nyable/obsidian-code-block-enhancer",
     "tadashi-aikawa/obsidian-embedded-code-title",
     "denolehov/obsidian-git",
