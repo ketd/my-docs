@@ -13,13 +13,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Android开发/笔记/Android项目结构/layout folder布局文件夹.md",
+                "file": "Android开发/笔记/Android项目结构/项目文件结构.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "5bd2e54a771c6ded",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Android开发/笔记/Android项目结构/项目创建.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -101,7 +114,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Android开发/笔记/Android项目结构/layout folder布局文件夹.md",
+                "file": "Android开发/笔记/Android项目结构/项目创建.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -118,7 +131,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Android开发/笔记/Android项目结构/layout folder布局文件夹.md",
+                "file": "Android开发/笔记/Android项目结构/项目创建.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -141,7 +154,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Android开发/笔记/Android项目结构/layout folder布局文件夹.md"
+                "file": "Android开发/笔记/Android项目结构/项目创建.md"
               }
             }
           }
@@ -166,16 +179,17 @@
       "obsidian-memos:Memos": false
     }
   },
-  "active": "4b940c9b87d4d100",
+  "active": "5bd2e54a771c6ded",
   "lastOpenFiles": [
-    "README.md",
-    "Android开发/笔记/Android项目结构/mipmap.md",
-    "Android开发/图片/Pasted image 20231110221554.png",
+    "Android开发/笔记/Android项目结构/项目文件结构.md",
+    "Android开发/笔记/Android项目结构/项目创建.md",
+    "未命名",
     "Android开发/笔记/Android项目结构/layout folder布局文件夹.md",
+    "Android开发/笔记/Android项目结构/mipmap.md",
+    "README.md",
+    "Android开发/图片/Pasted image 20231110221554.png",
     "Android开发/图片/Pasted image 20231110221419.png",
     "未命名 1",
-    "未命名",
-    "Android开发/笔记/Android项目结构/项目文件.md",
     "Android开发/笔记/Android项目结构",
     "Android开发/图片/Pasted image 20231110205018.png",
     "Pasted image 20231110204945.png.md",
