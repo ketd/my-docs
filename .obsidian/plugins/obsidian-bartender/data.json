@@ -3,9 +3,8 @@
   "ribbonBarOrder": [],
   "fileExplorerOrder": {
     "Android开发/笔记/Android项目结构": [
-      "Android开发/笔记/Android项目结构/项目文件.md",
-      "Android开发/笔记/Android项目结构/mipmap.md",
-      "Android开发/笔记/Android项目结构/layout folder布局文件夹.md"
+      "Android开发/笔记/Android项目结构/项目文件结构.md",
+      "Android开发/笔记/Android项目结构/项目创建.md"
     ],
     "/": [
       "Android开发",
