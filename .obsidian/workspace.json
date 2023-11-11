@@ -13,26 +13,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Android开发/笔记/Android项目结构/项目文件结构.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "5bd2e54a771c6ded",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
                 "file": "Android开发/笔记/Android项目结构/项目创建.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -157,9 +144,17 @@
                 "file": "Android开发/笔记/Android项目结构/项目创建.md"
               }
             }
+          },
+          {
+            "id": "9d4d039dcfb26100",
+            "type": "leaf",
+            "state": {
+              "type": "advanced-tables-toolbar",
+              "state": {}
+            }
           }
         ],
-        "currentTab": 3
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
@@ -179,10 +174,12 @@
       "obsidian-memos:Memos": false
     }
   },
-  "active": "5bd2e54a771c6ded",
+  "active": "745992e377cc416c",
   "lastOpenFiles": [
     "Android开发/笔记/Android项目结构/项目文件结构.md",
     "Android开发/笔记/Android项目结构/项目创建.md",
+    "Android开发/图片/Pasted image 20231111133912.png",
+    "Android开发/图片/Pasted image 20231111133842.png",
     "未命名",
     "Android开发/笔记/Android项目结构/layout folder布局文件夹.md",
     "Android开发/笔记/Android项目结构/mipmap.md",
