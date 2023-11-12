@@ -79,7 +79,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -181,7 +182,7 @@
       "obsidian-memos:Memos": false
     }
   },
-  "active": "4b940c9b87d4d100",
+  "active": "3b47cb49ed5f7c77",
   "lastOpenFiles": [
     "Android开发/笔记/Kotlin/Kotlin官方文档/kotlincn-docs.pdf",
     "Android开发/笔记/初识Android/项目创建.md",
