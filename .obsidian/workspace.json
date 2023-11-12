@@ -125,6 +125,16 @@
             }
           },
           {
+            "id": "e6e7106381d2f503",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Android开发/笔记/Android项目结构/项目创建.md"
+              }
+            }
+          },
+          {
             "id": "94da9b413ba1eb8d",
             "type": "leaf",
             "state": {
@@ -136,25 +146,23 @@
             }
           },
           {
-            "id": "e6e7106381d2f503",
-            "type": "leaf",
-            "state": {
-              "type": "outline",
-              "state": {
-                "file": "Android开发/笔记/Android项目结构/项目创建.md"
-              }
-            }
-          },
-          {
             "id": "9d4d039dcfb26100",
             "type": "leaf",
             "state": {
               "type": "advanced-tables-toolbar",
               "state": {}
             }
+          },
+          {
+            "id": "acae060647723d57",
+            "type": "leaf",
+            "state": {
+              "type": "git-history-view",
+              "state": {}
+            }
           }
         ],
-        "currentTab": 4
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
