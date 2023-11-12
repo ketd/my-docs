@@ -13,8 +13,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Android开发/笔记/Git使用/版本控制.md",
-                "mode": "preview",
+                "file": "Android开发/笔记/Git使用/Git Cheat Sheet.md",
+                "mode": "source",
                 "source": false
               }
             }
@@ -101,7 +101,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Android开发/笔记/Git使用/版本控制.md",
+                "file": "Android开发/笔记/Git使用/Git Cheat Sheet.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -118,7 +118,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Android开发/笔记/Git使用/版本控制.md",
+                "file": "Android开发/笔记/Git使用/Git Cheat Sheet.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -130,7 +130,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Android开发/笔记/Git使用/版本控制.md"
+                "file": "Android开发/笔记/Git使用/Git Cheat Sheet.md"
               }
             }
           },
@@ -184,8 +184,9 @@
   },
   "active": "745992e377cc416c",
   "lastOpenFiles": [
+    "Android开发/笔记/Git使用/简介.md",
+    "Android开发/笔记/Git使用/Git Cheat Sheet.md",
     "Android开发/笔记/Android项目结构/项目创建.md",
-    "Android开发/笔记/Git使用/版本控制.md",
     "Android开发/笔记/Git使用",
     "Android开发/笔记/Android项目结构/项目文件结构.md",
     "Android开发/图片/Pasted image 20231111133842.png",
