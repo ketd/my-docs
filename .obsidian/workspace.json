@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Android开发/笔记/Android项目结构/项目创建.md",
+                "file": "Android开发/笔记/Git使用/版本控制.md",
                 "mode": "source",
                 "source": false
               }
@@ -101,7 +101,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Android开发/笔记/Android项目结构/项目创建.md",
+                "file": "Android开发/笔记/Git使用/版本控制.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -118,7 +118,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Android开发/笔记/Android项目结构/项目创建.md",
+                "file": "Android开发/笔记/Git使用/版本控制.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -130,7 +130,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Android开发/笔记/Android项目结构/项目创建.md"
+                "file": "Android开发/笔记/Git使用/版本控制.md"
               }
             }
           },
@@ -184,8 +184,10 @@
   },
   "active": "745992e377cc416c",
   "lastOpenFiles": [
-    "Android开发/笔记/Android项目结构/项目文件结构.md",
     "Android开发/笔记/Android项目结构/项目创建.md",
+    "Android开发/笔记/Git使用/版本控制.md",
+    "Android开发/笔记/Git使用",
+    "Android开发/笔记/Android项目结构/项目文件结构.md",
     "Android开发/图片/Pasted image 20231111133842.png",
     "Android开发/图片/5de0935f4c0053e98c8aece771141ed.png",
     "Android开发/图片/Pasted image 20231111172002.png",
