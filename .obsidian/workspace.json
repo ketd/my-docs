@@ -79,8 +79,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -179,11 +178,13 @@
       "command-palette:打开命令面板": false,
       "table-editor-obsidian:Advanced Tables Toolbar": false,
       "omnisearch:Omnisearch": false,
+      "pdf-to-markdown-plugin:PDF to Markdown": false,
       "obsidian-memos:Memos": false
     }
   },
-  "active": "3b47cb49ed5f7c77",
+  "active": "e21ba6fb0987d6e2",
   "lastOpenFiles": [
+    "kotlincn-docs.md",
     "Android开发/笔记/Kotlin/Kotlin官方文档/kotlincn-docs.pdf",
     "Android开发/笔记/初识Android/项目创建.md",
     "Android开发/笔记/初识Android/项目文件结构.md",

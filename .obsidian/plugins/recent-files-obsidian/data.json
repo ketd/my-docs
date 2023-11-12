@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "Git Cheat Sheet",
+      "path": "Android开发/笔记/Git使用/Git Cheat Sheet.md"
+    },
+    {
       "basename": "kotlincn-docs",
       "path": "Android开发/笔记/Kotlin/Kotlin官方文档/kotlincn-docs.pdf"
     },
@@ -15,10 +19,6 @@
     {
       "basename": "版本控制",
       "path": "Android开发/笔记/Git使用/版本控制.md"
-    },
-    {
-      "basename": "Git Cheat Sheet",
-      "path": "Android开发/笔记/Git使用/Git Cheat Sheet.md"
     },
     {
       "basename": "Pasted image 20231111133842",
