@@ -1,12 +1,20 @@
 {
   "recentFiles": [
     {
-      "basename": "kotlincn-docs",
-      "path": "Android开发/笔记/Kotlin/Kotlin官方文档/kotlincn-docs.pdf"
+      "basename": "UX UI 课程大纲",
+      "path": "Android开发/笔记/UX_and_UI/UX UI 课程大纲.md"
     },
     {
       "basename": "Git Cheat Sheet",
       "path": "Android开发/笔记/Git使用/Git Cheat Sheet.md"
+    },
+    {
+      "basename": "版本控制",
+      "path": "Android开发/笔记/Git使用/版本控制.md"
+    },
+    {
+      "basename": "kotlincn-docs",
+      "path": "Android开发/笔记/Kotlin/Kotlin官方文档/kotlincn-docs.pdf"
     },
     {
       "basename": "项目创建",
@@ -15,10 +23,6 @@
     {
       "basename": "项目文件结构",
       "path": "Android开发/笔记/初识Android/项目文件结构.md"
-    },
-    {
-      "basename": "版本控制",
-      "path": "Android开发/笔记/Git使用/版本控制.md"
     },
     {
       "basename": "Pasted image 20231111133842",
