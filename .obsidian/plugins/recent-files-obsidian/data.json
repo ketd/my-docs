@@ -1,6 +1,26 @@
 {
   "recentFiles": [
     {
+      "basename": "基本类型",
+      "path": "Android开发/笔记/Kotlin/Kotlin官方文档/基本类型.md"
+    },
+    {
+      "basename": "目录",
+      "path": "Android开发/笔记/Kotlin/Kotlin官方文档/目录.md"
+    },
+    {
+      "basename": "未命名",
+      "path": "Android开发/笔记/Kotlin/未命名.md"
+    },
+    {
+      "basename": "Kotlin 编程基础",
+      "path": "Android开发/笔记/Kotlin/Kotlin 编程基础.md"
+    },
+    {
+      "basename": "项目创建",
+      "path": "Android开发/笔记/初识Android/项目创建.md"
+    },
+    {
       "basename": "版本控制",
       "path": "Android开发/笔记/Git使用/版本控制.md"
     },
@@ -9,12 +29,8 @@
       "path": "Android开发/笔记/Git使用/Git Cheat Sheet.md"
     },
     {
-      "basename": "项目创建",
-      "path": "Android开发/笔记/Android项目结构/项目创建.md"
-    },
-    {
       "basename": "项目文件结构",
-      "path": "Android开发/笔记/Android项目结构/项目文件结构.md"
+      "path": "Android开发/笔记/初识Android/项目文件结构.md"
     },
     {
       "basename": "Pasted image 20231111133842",

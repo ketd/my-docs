@@ -13,13 +13,24 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Android开发/笔记/Git使用/版本控制.md",
+                "file": "Android开发/笔记/Kotlin/Kotlin官方文档/基本类型.md",
                 "mode": "source",
                 "source": false
               }
             }
+          },
+          {
+            "id": "6bfa6a7aa56710a9",
+            "type": "leaf",
+            "state": {
+              "type": "surfing-view",
+              "state": {
+                "url": "https://book.kotlincn.net/text/typecasts.html"
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -101,7 +112,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Android开发/笔记/Git使用/版本控制.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -118,7 +128,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Android开发/笔记/Git使用/版本控制.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -129,9 +138,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Android开发/笔记/Git使用/版本控制.md"
-              }
+              "state": {}
             }
           },
           {
@@ -182,29 +189,35 @@
       "obsidian-memos:Memos": false
     }
   },
-  "active": "745992e377cc416c",
+  "active": "6bfa6a7aa56710a9",
   "lastOpenFiles": [
-    "Android开发/笔记/Git使用/Git Cheat Sheet.md",
+    "Android开发/笔记/Kotlin/Kotlin官方文档/基本类型.md",
+    "Android开发/笔记/Kotlin/Kotlin官方文档/目录.md",
+    "Android开发/笔记/Kotlin/未命名.md",
+    "Android开发/笔记/Kotlin/Kotlin 编程基础.md",
+    "Android开发/笔记/Kotlin/Kotlin官方文档",
+    "Android开发/图片/Pasted image 20231112155456.png",
+    "Android开发/图片/Pasted image 20231112155437.png",
+    "Android开发/图片/Pasted image 20231112155434.png",
+    "Android开发/图片/Pasted image 20231112155411.png",
+    "Android开发/笔记/初识Android/项目创建.md",
     "Android开发/笔记/Git使用/版本控制.md",
-    "Android开发/笔记/Android项目结构/项目创建.md",
+    "Android开发/笔记/Kotlin",
+    "Android开发/笔记/Git使用/Git Cheat Sheet.md",
     "Android开发/笔记/Git使用",
-    "Android开发/笔记/Android项目结构/项目文件结构.md",
+    "Android开发/笔记/初识Android/项目文件结构.md",
     "Android开发/图片/Pasted image 20231111133842.png",
     "Android开发/图片/5de0935f4c0053e98c8aece771141ed.png",
     "Android开发/图片/Pasted image 20231111172002.png",
     "Android开发/图片/Pasted image 20231111155109.png",
     "Android开发/图片/Pasted image 20231111155047.png",
     "Android开发/图片/Pasted image 20231111155002.png",
-    "Android开发/图片/Pasted image 20231111143543.png",
     "未命名",
-    "Android开发/图片/Pasted image 20231111141201.png",
-    "Android开发/图片/Pasted image 20231111140312.png",
-    "Android开发/图片/Pasted image 20231111140133.png",
     "Android开发/笔记/Android项目结构/layout folder布局文件夹.md",
     "Android开发/笔记/Android项目结构/mipmap.md",
     "README.md",
     "未命名 1",
-    "Android开发/笔记/Android项目结构",
+    "Android开发/笔记/初识Android",
     "Pasted image 20231110204945.png.md",
     "Android开发/笔记",
     "Android开发/图片",
