@@ -14,6 +14,10 @@
       "Android开发/笔记/初识Android",
       "Android开发/笔记/Git使用",
       "Android开发/笔记/Kotlin"
+    ],
+    "Android开发/笔记/Git使用": [
+      "Android开发/笔记/Git使用/版本控制.md",
+      "Android开发/笔记/Git使用/Git Cheat Sheet.md"
     ]
   },
   "actionBarOrder": {},
