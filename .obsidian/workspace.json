@@ -4,18 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "5f1586b03acdd179",
+        "id": "88366cfada57b3ef",
         "type": "tabs",
         "children": [
           {
-            "id": "745992e377cc416c",
+            "id": "e21ba6fb0987d6e2",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "pdf",
               "state": {
-                "file": "Android开发/笔记/初识Android/项目创建.md",
-                "mode": "source",
-                "source": false
+                "file": "Android开发/笔记/Kotlin/Kotlin官方文档/kotlincn-docs.pdf"
               }
             }
           }
@@ -101,7 +99,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Android开发/笔记/初识Android/项目创建.md",
+                "file": "Android开发/笔记/Kotlin/Kotlin官方文档/kotlincn-docs.pdf",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -118,7 +116,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Android开发/笔记/初识Android/项目创建.md",
+                "file": "Android开发/笔记/Kotlin/Kotlin官方文档/kotlincn-docs.pdf",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -130,7 +128,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Android开发/笔记/初识Android/项目创建.md"
+                "file": "Android开发/笔记/Kotlin/Kotlin官方文档/kotlincn-docs.pdf"
               }
             }
           },
@@ -183,12 +181,12 @@
       "obsidian-memos:Memos": false
     }
   },
-  "active": "745992e377cc416c",
+  "active": "4b940c9b87d4d100",
   "lastOpenFiles": [
+    "Android开发/笔记/Kotlin/Kotlin官方文档/kotlincn-docs.pdf",
     "Android开发/笔记/初识Android/项目创建.md",
     "Android开发/笔记/初识Android/项目文件结构.md",
     "Android开发/笔记/Git使用/版本控制.md",
-    "Android开发/笔记/Kotlin/Kotlin官方文档/kotlincn-docs.pdf",
     "Android开发/笔记/Git使用/Git Cheat Sheet.md",
     "Android开发/笔记/Kotlin/Kotlin官方文档/Kotlin 官方文档中文版.md",
     "Android开发/笔记/Kotlin/Kotlin 编程基础.md",
