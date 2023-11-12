@@ -13,19 +13,19 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Android开发/笔记/Kotlin/Kotlin官方文档/基本类型.md",
+                "file": "Android开发/笔记/Kotlin/Kotlin官方文档/Kotlin 官方文档中文版.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "6bfa6a7aa56710a9",
+            "id": "83451e3de1b1c6a0",
             "type": "leaf",
             "state": {
               "type": "surfing-view",
               "state": {
-                "url": "https://book.kotlincn.net/text/typecasts.html"
+                "url": "https://book.kotlincn.net/text/java-to-kotlin-idioms-strings.html"
               }
             }
           }
@@ -96,7 +96,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 277.5087699890137
+    "width": 277.5087699890137,
+    "collapsed": true
   },
   "right": {
     "id": "c3bd5aa90cca7195",
@@ -189,10 +190,10 @@
       "obsidian-memos:Memos": false
     }
   },
-  "active": "6bfa6a7aa56710a9",
+  "active": "83451e3de1b1c6a0",
   "lastOpenFiles": [
+    "Android开发/笔记/Kotlin/Kotlin官方文档/Kotlin 官方文档中文版.md",
     "Android开发/笔记/Kotlin/Kotlin官方文档/基本类型.md",
-    "Android开发/笔记/Kotlin/Kotlin官方文档/目录.md",
     "Android开发/笔记/Kotlin/未命名.md",
     "Android开发/笔记/Kotlin/Kotlin 编程基础.md",
     "Android开发/笔记/Kotlin/Kotlin官方文档",

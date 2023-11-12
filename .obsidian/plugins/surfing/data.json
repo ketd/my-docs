@@ -45,21 +45,10 @@
   },
   "treeData": [
     {
-      "id": "6bfa6a7aa56710a9",
+      "id": "83451e3de1b1c6a0",
       "parent": 0,
       "droppable": true,
-      "text": "类型检测与类型转换 · Kotlin 官方文档 中文版",
-      "data": {
-        "fileType": "site",
-        "fileSize": "",
-        "icon": {}
-      }
-    },
-    {
-      "id": "1303d8d8e12adf53",
-      "parent": 0,
-      "droppable": true,
-      "text": "数字 · Kotlin 官方文档 中文版",
+      "text": "入门 · Kotlin 官方文档 中文版",
       "data": {
         "fileType": "site",
         "fileSize": "",
