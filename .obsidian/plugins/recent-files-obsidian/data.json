@@ -1,40 +1,44 @@
 {
   "recentFiles": [
     {
+      "basename": "Layers, groups and frames",
+      "path": "Android开发/笔记/UX_and_UI/figma使用/Layers, groups and frames.md"
+    },
+    {
       "basename": "导航中使用菜单图标",
-      "path": "Android开发/笔记/UX_and_UI/导航中使用菜单图标.md"
-    },
-    {
-      "basename": "小柠檬表单分析",
-      "path": "Android开发/笔记/UX_and_UI/小柠檬表单分析.md"
-    },
-    {
-      "basename": "迪特·拉姆斯的10个好设计原则",
-      "path": "Android开发/笔记/UX_and_UI/迪特·拉姆斯的10个好设计原则.md"
-    },
-    {
-      "basename": "表单设计最佳实践",
-      "path": "Android开发/笔记/UX_and_UI/表单设计最佳实践.md"
-    },
-    {
-      "basename": "为无障碍设计",
-      "path": "Android开发/笔记/UX_and_UI/为无障碍设计.md"
-    },
-    {
-      "basename": "数字设计的类型",
-      "path": "Android开发/笔记/UX_and_UI/数字设计的类型.md"
-    },
-    {
-      "basename": "共情工具：UX 过程中的文档",
-      "path": "Android开发/笔记/UX_and_UI/共情工具：UX 过程中的文档.md"
-    },
-    {
-      "basename": "小柠檬场景",
-      "path": "Android开发/笔记/UX_and_UI/小柠檬场景.md"
+      "path": "Android开发/笔记/UX_and_UI/基础概念/导航中使用菜单图标.md"
     },
     {
       "basename": "UX UI 课程大纲",
-      "path": "Android开发/笔记/UX_and_UI/UX UI 课程大纲.md"
+      "path": "Android开发/笔记/UX_and_UI/基础概念/UX UI 课程大纲.md"
+    },
+    {
+      "basename": "表单设计最佳实践",
+      "path": "Android开发/笔记/UX_and_UI/基础概念/表单设计最佳实践.md"
+    },
+    {
+      "basename": "数字设计的类型",
+      "path": "Android开发/笔记/UX_and_UI/基础概念/数字设计的类型.md"
+    },
+    {
+      "basename": "迪特·拉姆斯的10个好设计原则",
+      "path": "Android开发/笔记/UX_and_UI/基础概念/迪特·拉姆斯的10个好设计原则.md"
+    },
+    {
+      "basename": "小柠檬表单分析",
+      "path": "Android开发/笔记/UX_and_UI/基础概念/小柠檬表单分析.md"
+    },
+    {
+      "basename": "为无障碍设计",
+      "path": "Android开发/笔记/UX_and_UI/基础概念/为无障碍设计.md"
+    },
+    {
+      "basename": "共情工具：UX 过程中的文档",
+      "path": "Android开发/笔记/UX_and_UI/基础概念/共情工具：UX 过程中的文档.md"
+    },
+    {
+      "basename": "小柠檬场景",
+      "path": "Android开发/笔记/UX_and_UI/基础概念/小柠檬场景.md"
     },
     {
       "basename": "kotlincn-docs",
