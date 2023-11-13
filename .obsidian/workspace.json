@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Android开发/笔记/UX_and_UI/figma使用/Layers, groups and frames.md",
+                "file": "Android开发/笔记/UX_and_UI/figma使用/排版和最佳实践.md",
                 "mode": "source",
                 "source": false
               }
@@ -48,7 +48,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Android开发/笔记/UX_and_UI/figma使用/Layers, groups and frames.md"
+                "file": "Android开发/笔记/UX_and_UI/figma使用/排版和最佳实践.md"
               }
             }
           },
@@ -91,7 +91,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -111,7 +112,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Android开发/笔记/UX_and_UI/figma使用/Layers, groups and frames.md",
+                "file": "Android开发/笔记/UX_and_UI/figma使用/排版和最佳实践.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -128,7 +129,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Android开发/笔记/UX_and_UI/figma使用/Layers, groups and frames.md",
+                "file": "Android开发/笔记/UX_and_UI/figma使用/排版和最佳实践.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -185,25 +186,26 @@
   },
   "active": "ab63ccbddfcad33d",
   "lastOpenFiles": [
-    "Android开发/图片/Pasted image 20231113214346.png",
-    "Android开发/图片/Pasted image 20231113214324.png",
-    "Android开发/图片/Pasted image 20231113214244.png",
-    "Android开发/图片/Pasted image 20231113214200.png",
-    "Android开发/图片/Pasted image 20231113214145.png",
-    "Android开发/图片/Pasted image 20231113214132.png",
-    "Android开发/图片/Pasted image 20231113214124.png",
+    "Android开发/图片/Pasted image 20231113222434.png",
+    "Android开发/图片/Pasted image 20231113222400.png",
+    "Android开发/图片/Pasted image 20231113222338.png",
+    "Android开发/图片/Pasted image 20231113222303.png",
+    "Android开发/图片/Pasted image 20231113222241.png",
+    "Android开发/图片/Pasted image 20231113222220.png",
+    "Android开发/图片/Pasted image 20231113222126.png",
+    "Android开发/图片/Pasted image 20231113222105.png",
+    "Android开发/图片/Pasted image 20231113222042.png",
+    "Android开发/图片/Pasted image 20231113221950.png",
+    "Android开发/图片/Pasted image 20231113221905.png",
+    "Android开发/笔记/UX_and_UI/figma使用/Layers, groups and frames.md",
+    "Android开发/笔记/UX_and_UI/figma使用/排版和最佳实践.md",
     "Android开发/笔记/UX_and_UI/基础概念/导航中使用菜单图标.md",
     "Android开发/笔记/UX_and_UI/基础概念/UX UI 课程大纲.md",
-    "Android开发/笔记/UX_and_UI/figma使用/Layers, groups and frames.md",
     "Android开发/笔记/UX_and_UI/基础概念/表单设计最佳实践.md",
     "Android开发/笔记/UX_and_UI/figma使用",
     "Android开发/笔记/UX_and_UI/基础概念/数字设计的类型.md",
     "Android开发/笔记/UX_and_UI/基础概念/迪特·拉姆斯的10个好设计原则.md",
     "Android开发/笔记/UX_and_UI/基础概念",
-    "Android开发/图片/Pasted image 20231113210219.png",
-    "Android开发/图片/Pasted image 20231113210147.png",
-    "Android开发/图片/Pasted image 20231113210121.png",
-    "Android开发/图片/Pasted image 20231113210036.png",
     "Android开发/笔记/UX_and_UI/基础概念/小柠檬表单分析.md",
     "Android开发/笔记/UX_and_UI/基础概念/为无障碍设计.md",
     "Android开发/笔记/UX_and_UI/基础概念/共情工具：UX 过程中的文档.md",
