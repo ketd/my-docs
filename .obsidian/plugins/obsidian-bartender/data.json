@@ -18,6 +18,14 @@
     "Android开发/笔记/Git使用": [
       "Android开发/笔记/Git使用/版本控制.md",
       "Android开发/笔记/Git使用/Git Cheat Sheet.md"
+    ],
+    "Android开发/笔记/UX_and_UI": [
+      "Android开发/笔记/UX_and_UI/UX UI 课程大纲.md",
+      "Android开发/笔记/UX_and_UI/数字设计的类型.md",
+      "Android开发/笔记/UX_and_UI/共情工具：UX 过程中的文档.md",
+      "Android开发/笔记/UX_and_UI/小柠檬场景.md",
+      "Android开发/笔记/UX_and_UI/用户对象.docx",
+      "Android开发/笔记/UX_and_UI/迪特·拉姆斯的10个好设计原则.md"
     ]
   },
   "actionBarOrder": {},
