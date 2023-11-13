@@ -43,5 +43,17 @@
     ],
     "defaultFilterType": "tree"
   },
-  "treeData": []
+  "treeData": [
+    {
+      "id": "7ae72b92ad821b4b",
+      "parent": 0,
+      "droppable": true,
+      "text": "Web Content Accessibility Guidelines (WCAG) 2.0",
+      "data": {
+        "fileType": "site",
+        "fileSize": "",
+        "icon": {}
+      }
+    }
+  ]
 }
