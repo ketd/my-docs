@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Android开发/笔记/UX_and_UI/figma使用/表格.md",
+                "file": "Android开发/笔记/UX_and_UI/figma使用/网格系统.md",
                 "mode": "source",
                 "source": false
               }
@@ -48,7 +48,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Android开发/笔记/UX_and_UI/figma使用/表格.md"
+                "file": "Android开发/笔记/UX_and_UI/figma使用/网格系统.md"
               }
             }
           },
@@ -91,7 +91,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -111,7 +112,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Android开发/笔记/UX_and_UI/figma使用/表格.md",
+                "file": "Android开发/笔记/UX_and_UI/figma使用/网格系统.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -128,7 +129,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Android开发/笔记/UX_and_UI/figma使用/表格.md",
+                "file": "Android开发/笔记/UX_and_UI/figma使用/网格系统.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -185,19 +186,20 @@
   },
   "active": "ab63ccbddfcad33d",
   "lastOpenFiles": [
-    "Android开发/图片/Pasted image 20231114113241.png",
-    "Android开发/图片/Pasted image 20231114113101.png",
-    "Android开发/图片/Pasted image 20231114113057.png",
-    "Android开发/图片/Pasted image 20231114113041.png",
-    "Android开发/图片/Pasted image 20231114113032.png",
-    "Android开发/图片/Pasted image 20231114113010.png",
-    "Android开发/图片/Pasted image 20231114113004.png",
-    "Android开发/图片/Pasted image 20231114112948.png",
-    "Android开发/图片/Pasted image 20231114112941.png",
-    "Android开发/图片/Pasted image 20231114112811.png",
-    "Android开发/笔记/UX_and_UI/figma使用/排版和最佳实践.md",
+    "Android开发/图片/Pasted image 20231114123242.png",
+    "Android开发/图片/Pasted image 20231114123212.png",
+    "Android开发/图片/Pasted image 20231114123129.png",
+    "Android开发/图片/Pasted image 20231114123052.png",
+    "Android开发/图片/Pasted image 20231114123011.png",
+    "Android开发/图片/Pasted image 20231114122942.png",
+    "Android开发/图片/Pasted image 20231114122919.png",
+    "Android开发/图片/Pasted image 20231114122904.png",
+    "Android开发/图片/Pasted image 20231114122805.png",
+    "Android开发/图片/Pasted image 20231114122356.png",
+    "Android开发/图片/Pasted image 20231114122350.png",
     "Android开发/笔记/UX_and_UI/figma使用/表格.md",
-    "Android开发/图片/Pasted image 20231113222434.png",
+    "Android开发/笔记/UX_and_UI/figma使用/网格系统.md",
+    "Android开发/笔记/UX_and_UI/figma使用/排版和最佳实践.md",
     "Android开发/笔记/UX_and_UI/figma使用/Layers, groups and frames.md",
     "Android开发/笔记/UX_and_UI/基础概念/导航中使用菜单图标.md",
     "Android开发/笔记/UX_and_UI/基础概念/UX UI 课程大纲.md",
@@ -229,7 +231,6 @@
     "Android开发/笔记/Git使用",
     "Android开发/笔记/Android项目结构/layout folder布局文件夹.md",
     "Android开发/笔记/Android项目结构/mipmap.md",
-    "README.md",
-    "Pasted image 20231110204945.png.md"
+    "README.md"
   ]
 }
