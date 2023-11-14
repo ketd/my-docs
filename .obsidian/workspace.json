@@ -91,7 +91,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -185,22 +186,22 @@
   },
   "active": "ab63ccbddfcad33d",
   "lastOpenFiles": [
-    "Android开发/图片/Pasted image 20231114195955.png",
+    "Android开发/图片/Pasted image 20231114201134.png",
+    "Android开发/图片/Pasted image 20231114201052.png",
+    "Android开发/图片/Pasted image 20231114200951.png",
+    "Android开发/图片/Pasted image 20231114200919.png",
+    "Android开发/图片/Pasted image 20231114200851.png",
+    "Android开发/图片/Pasted image 20231114200826.png",
+    "Android开发/图片/Pasted image 20231114200800.png",
+    "Android开发/图片/Pasted image 20231114200728.png",
+    "Android开发/图片/Pasted image 20231114200635.png",
+    "Android开发/图片/Pasted image 20231114200543.png",
+    "Android开发/图片/Pasted image 20231114200517.png",
     "Android开发/笔记/UX_and_UI/figma使用/快速原型制作.md",
     "Android开发/笔记/UX_and_UI/Design/设计元素原则.md",
     "Android开发/笔记/UX_and_UI/Design",
     "Android开发/笔记/UX_and_UI/figma使用/可用性测试备忘单和模板.md",
     "Android开发/笔记/UX_and_UI/figma使用/网格系统.md",
-    "Android开发/图片/Pasted image 20231114123242.png",
-    "Android开发/图片/Pasted image 20231114123212.png",
-    "Android开发/图片/Pasted image 20231114123129.png",
-    "Android开发/图片/Pasted image 20231114123052.png",
-    "Android开发/图片/Pasted image 20231114123011.png",
-    "Android开发/图片/Pasted image 20231114122942.png",
-    "Android开发/图片/Pasted image 20231114122919.png",
-    "Android开发/图片/Pasted image 20231114122904.png",
-    "Android开发/图片/Pasted image 20231114122805.png",
-    "Android开发/图片/Pasted image 20231114122356.png",
     "Android开发/笔记/UX_and_UI/figma使用/表格.md",
     "Android开发/笔记/UX_and_UI/figma使用/排版和最佳实践.md",
     "Android开发/笔记/UX_and_UI/figma使用/Layers, groups and frames.md",
