@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Android开发/笔记/UX_and_UI/Design/未命名.md",
+                "file": "Android开发/笔记/进入Android开发/布局编辑器.md",
                 "mode": "source",
                 "source": false
               }
@@ -48,7 +48,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Android开发/笔记/UX_and_UI/Design/未命名.md"
+                "file": "Android开发/笔记/进入Android开发/布局编辑器.md"
               }
             }
           },
@@ -112,7 +112,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Android开发/笔记/UX_and_UI/Design/未命名.md",
+                "file": "Android开发/笔记/进入Android开发/布局编辑器.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -129,7 +129,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Android开发/笔记/UX_and_UI/Design/未命名.md",
+                "file": "Android开发/笔记/进入Android开发/布局编辑器.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -186,25 +186,28 @@
   },
   "active": "ab63ccbddfcad33d",
   "lastOpenFiles": [
-    "Android开发/图片/Pasted image 20231116183343.png",
-    "Android开发/图片/Pasted image 20231116183307.png",
-    "Android开发/图片/Pasted image 20231116183135.png",
+    "Android开发/图片/Pasted image 20231117154428.png",
+    "Android开发/图片/Pasted image 20231117154407.png",
+    "Android开发/图片/Pasted image 20231117154348.png",
+    "Android开发/图片/Pasted image 20231117154322.png",
+    "Android开发/图片/Pasted image 20231117154252.png",
+    "Android开发/图片/Pasted image 20231117154214.png",
+    "Android开发/图片/Pasted image 20231117154159.png",
+    "Android开发/图片/Pasted image 20231117154126.png",
+    "Android开发/图片/Pasted image 20231117154106.png",
+    "Android开发/图片/Pasted image 20231117154043.png",
+    "Android开发/图片/Pasted image 20231117154017.png",
+    "Android开发/笔记/进入Android开发/XML 中的 UI 表示.md",
+    "Android开发/笔记/进入Android开发/布局编辑器.md",
+    "Android开发/笔记/UX_and_UI/Design/微动画.md",
+    "Android开发/笔记/进入Android开发",
     "Android开发/笔记/UX_and_UI/Design/Design systems.md",
-    "Android开发/笔记/UX_and_UI/Design/未命名.md",
-    "Android开发/图片/Pasted image 20231116180535.png",
-    "Android开发/图片/Pasted image 20231116180439.png",
-    "Android开发/图片/Pasted image 20231116180239.png",
     "Android开发/笔记/UX_and_UI/基础概念/导航中使用菜单图标.md",
     "Android开发/笔记/UX_and_UI/figma使用/Layers, groups and frames.md",
     "Android开发/笔记/UX_and_UI/figma使用/网格系统.md",
     "Android开发/笔记/UX_and_UI/figma使用/组件使用.md",
     "Android开发/笔记/UX_and_UI/Design/设计中的情绪板.md",
-    "Android开发/图片/Pasted image 20231114210858.png",
     "Android开发/笔记/UX_and_UI/Design/设计元素原则.md",
-    "Android开发/图片/Pasted image 20231114205923.png",
-    "Android开发/图片/Pasted image 20231114201134.png",
-    "Android开发/图片/Pasted image 20231114201052.png",
-    "Android开发/图片/Pasted image 20231114200951.png",
     "Android开发/笔记/UX_and_UI/figma使用/快速原型制作.md",
     "Android开发/笔记/UX_and_UI/Design",
     "Android开发/笔记/UX_and_UI/figma使用/可用性测试备忘单和模板.md",
@@ -228,9 +231,6 @@
     "Android开发/笔记/Git使用/版本控制.md",
     "Android开发/笔记/Kotlin/kotlincn-docs.pdf",
     "kotlincn-docs.md",
-    "Android开发/笔记/初识Android/项目创建.md",
-    "Android开发/笔记/初识Android/项目文件结构.md",
-    "Android开发/笔记/Kotlin/Kotlin官方文档",
-    "Android开发/笔记/Kotlin"
+    "Android开发/笔记/Kotlin/Kotlin官方文档"
   ]
 }
