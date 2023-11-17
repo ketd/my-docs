@@ -1,6 +1,14 @@
 {
   "recentFiles": [
     {
+      "basename": "未命名",
+      "path": "Android开发/笔记/进入Android开发/未命名.md"
+    },
+    {
+      "basename": "项目创建",
+      "path": "Android开发/笔记/初识Android/项目创建.md"
+    },
+    {
       "basename": "布局编辑器",
       "path": "Android开发/笔记/进入Android开发/布局编辑器.md"
     },
@@ -99,10 +107,6 @@
     {
       "basename": "版本控制",
       "path": "Android开发/笔记/Git使用/版本控制.md"
-    },
-    {
-      "basename": "项目创建",
-      "path": "Android开发/笔记/初识Android/项目创建.md"
     },
     {
       "basename": "项目文件结构",
