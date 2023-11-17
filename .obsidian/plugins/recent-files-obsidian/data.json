@@ -1,12 +1,16 @@
 {
   "recentFiles": [
     {
-      "basename": "使用视图和XML：不足之处",
-      "path": "Android开发/笔记/进入Android开发/使用视图和XML：不足之处.md"
+      "basename": "gradle配置",
+      "path": "Android开发/笔记/初识Android/gradle配置.md"
     },
     {
       "basename": "项目创建",
       "path": "Android开发/笔记/初识Android/项目创建.md"
+    },
+    {
+      "basename": "使用视图和XML：不足之处",
+      "path": "Android开发/笔记/进入Android开发/使用视图和XML：不足之处.md"
     },
     {
       "basename": "项目文件结构",
