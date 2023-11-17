@@ -1,4 +1,5 @@
 {
   "promptDelete": false,
-  "attachmentFolderPath": "Android开发/图片"
+  "attachmentFolderPath": "Android开发/图片",
+  "readableLineLength": false
 }

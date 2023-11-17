@@ -1,6 +1,30 @@
 {
   "recentFiles": [
     {
+      "basename": "@Composable 注解",
+      "path": "Android开发/笔记/进入Android开发/@Composable 注解.md"
+    },
+    {
+      "basename": "网格系统",
+      "path": "Android开发/笔记/UX_and_UI/figma使用/网格系统.md"
+    },
+    {
+      "basename": "组件使用",
+      "path": "Android开发/笔记/UX_and_UI/figma使用/组件使用.md"
+    },
+    {
+      "basename": "可用性测试备忘单和模板",
+      "path": "Android开发/笔记/UX_and_UI/figma使用/可用性测试备忘单和模板.md"
+    },
+    {
+      "basename": "布局编辑器",
+      "path": "Android开发/笔记/进入Android开发/布局编辑器.md"
+    },
+    {
+      "basename": "XML 中的 UI 表示",
+      "path": "Android开发/笔记/进入Android开发/XML 中的 UI 表示.md"
+    },
+    {
       "basename": "gradle配置",
       "path": "Android开发/笔记/初识Android/gradle配置.md"
     },
@@ -15,14 +39,6 @@
     {
       "basename": "项目文件结构",
       "path": "Android开发/笔记/初识Android/项目文件结构.md"
-    },
-    {
-      "basename": "XML 中的 UI 表示",
-      "path": "Android开发/笔记/进入Android开发/XML 中的 UI 表示.md"
-    },
-    {
-      "basename": "布局编辑器",
-      "path": "Android开发/笔记/进入Android开发/布局编辑器.md"
     },
     {
       "basename": "微动画",
@@ -41,14 +57,6 @@
       "path": "Android开发/笔记/UX_and_UI/figma使用/Layers, groups and frames.md"
     },
     {
-      "basename": "网格系统",
-      "path": "Android开发/笔记/UX_and_UI/figma使用/网格系统.md"
-    },
-    {
-      "basename": "组件使用",
-      "path": "Android开发/笔记/UX_and_UI/figma使用/组件使用.md"
-    },
-    {
       "basename": "设计中的情绪板",
       "path": "Android开发/笔记/UX_and_UI/Design/设计中的情绪板.md"
     },
@@ -59,10 +67,6 @@
     {
       "basename": "快速原型制作",
       "path": "Android开发/笔记/UX_and_UI/figma使用/快速原型制作.md"
-    },
-    {
-      "basename": "可用性测试备忘单和模板",
-      "path": "Android开发/笔记/UX_and_UI/figma使用/可用性测试备忘单和模板.md"
     },
     {
       "basename": "表格",
