@@ -91,7 +91,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -185,6 +186,8 @@
   },
   "active": "ab63ccbddfcad33d",
   "lastOpenFiles": [
+    "Android开发/图片/Pasted image 20231118224817.png",
+    "Android开发/图片/Pasted image 20231118224805.png",
     "Android开发/笔记/UX_and_UI/Design/Design systems.md",
     "Android开发/笔记/进入Android开发/属性.md",
     "Android开发/笔记/进入Android开发/Surviving configuration changes.md",
@@ -210,7 +213,6 @@
     "Android开发/图片/Pasted image 20231117154214.png",
     "Android开发/图片/Pasted image 20231117154159.png",
     "Android开发/图片/Pasted image 20231117154126.png",
-    "Android开发/图片/Pasted image 20231117154106.png",
     "Android开发/笔记/UX_and_UI/Design/微动画.md",
     "Android开发/笔记/进入Android开发",
     "Android开发/笔记/UX_and_UI/基础概念/导航中使用菜单图标.md",
@@ -222,7 +224,6 @@
     "Android开发/笔记/UX_and_UI/figma使用/表格.md",
     "Android开发/笔记/UX_and_UI/figma使用/排版和最佳实践.md",
     "Android开发/笔记/UX_and_UI/基础概念/UX UI 课程大纲.md",
-    "Android开发/笔记/UX_and_UI/基础概念/表单设计最佳实践.md",
     "Android开发/笔记/UX_and_UI/figma使用",
     "Android开发/笔记/UX_and_UI/基础概念",
     "Android开发/笔记/UX_and_UI/用户对象.docx",
