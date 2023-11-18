@@ -1,12 +1,24 @@
 {
   "recentFiles": [
     {
-      "basename": "Previewing预览",
-      "path": "Android开发/笔记/进入Android开发/Previewing预览.md"
+      "basename": "XML 中的 UI 表示",
+      "path": "Android开发/笔记/进入Android开发/XML 中的 UI 表示.md"
     },
     {
       "basename": "@Composable 注解",
       "path": "Android开发/笔记/进入Android开发/@Composable 注解.md"
+    },
+    {
+      "basename": "使用视图和XML：不足之处",
+      "path": "Android开发/笔记/进入Android开发/使用视图和XML：不足之处.md"
+    },
+    {
+      "basename": "Previewing预览",
+      "path": "Android开发/笔记/进入Android开发/Previewing预览.md"
+    },
+    {
+      "basename": "布局编辑器",
+      "path": "Android开发/笔记/进入Android开发/布局编辑器.md"
     },
     {
       "basename": "网格系统",
@@ -21,24 +33,12 @@
       "path": "Android开发/笔记/UX_and_UI/figma使用/可用性测试备忘单和模板.md"
     },
     {
-      "basename": "布局编辑器",
-      "path": "Android开发/笔记/进入Android开发/布局编辑器.md"
-    },
-    {
-      "basename": "XML 中的 UI 表示",
-      "path": "Android开发/笔记/进入Android开发/XML 中的 UI 表示.md"
-    },
-    {
       "basename": "gradle配置",
       "path": "Android开发/笔记/初识Android/gradle配置.md"
     },
     {
       "basename": "项目创建",
       "path": "Android开发/笔记/初识Android/项目创建.md"
-    },
-    {
-      "basename": "使用视图和XML：不足之处",
-      "path": "Android开发/笔记/进入Android开发/使用视图和XML：不足之处.md"
     },
     {
       "basename": "项目文件结构",
