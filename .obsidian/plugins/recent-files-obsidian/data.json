@@ -1,6 +1,14 @@
 {
   "recentFiles": [
     {
+      "basename": "属性",
+      "path": "Android开发/笔记/进入Android开发/属性.md"
+    },
+    {
+      "basename": "Design systems",
+      "path": "Android开发/笔记/UX_and_UI/Design/Design systems.md"
+    },
+    {
       "basename": "Surviving configuration changes",
       "path": "Android开发/笔记/进入Android开发/Surviving configuration changes.md"
     },
@@ -59,10 +67,6 @@
     {
       "basename": "微动画",
       "path": "Android开发/笔记/UX_and_UI/Design/微动画.md"
-    },
-    {
-      "basename": "Design systems",
-      "path": "Android开发/笔记/UX_and_UI/Design/Design systems.md"
     },
     {
       "basename": "导航中使用菜单图标",
