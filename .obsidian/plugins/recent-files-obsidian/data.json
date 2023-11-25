@@ -1,6 +1,18 @@
 {
   "recentFiles": [
     {
+      "basename": "kotlincn-docs",
+      "path": "Android开发/笔记/Kotlin/Kotlin官方文档/kotlincn-docs.pdf"
+    },
+    {
+      "basename": "@Composable 注解",
+      "path": "Android开发/笔记/进入Android开发/@Composable 注解.md"
+    },
+    {
+      "basename": "报错记录总结",
+      "path": "Android开发/笔记/进入Android开发/报错记录总结.md"
+    },
+    {
       "basename": "属性",
       "path": "Android开发/笔记/进入Android开发/属性.md"
     },
@@ -13,20 +25,12 @@
       "path": "Android开发/笔记/进入Android开发/Surviving configuration changes.md"
     },
     {
-      "basename": "报错记录总结",
-      "path": "Android开发/笔记/进入Android开发/报错记录总结.md"
-    },
-    {
       "basename": "事件类型和修饰符",
       "path": "Android开发/笔记/进入Android开发/事件类型和修饰符.md"
     },
     {
       "basename": "XML 中的 UI 表示",
       "path": "Android开发/笔记/进入Android开发/XML 中的 UI 表示.md"
-    },
-    {
-      "basename": "@Composable 注解",
-      "path": "Android开发/笔记/进入Android开发/@Composable 注解.md"
     },
     {
       "basename": "使用视图和XML：不足之处",
@@ -127,10 +131,6 @@
     {
       "basename": "小柠檬场景",
       "path": "Android开发/笔记/UX_and_UI/基础概念/小柠檬场景.md"
-    },
-    {
-      "basename": "kotlincn-docs",
-      "path": "Android开发/笔记/Kotlin/Kotlin官方文档/kotlincn-docs.pdf"
     },
     {
       "basename": "Git Cheat Sheet",

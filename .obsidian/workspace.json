@@ -11,11 +11,9 @@
             "id": "ab63ccbddfcad33d",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "pdf",
               "state": {
-                "file": "Android开发/笔记/进入Android开发/属性.md",
-                "mode": "source",
-                "source": false
+                "file": "Android开发/笔记/Kotlin/Kotlin官方文档/kotlincn-docs.pdf"
               }
             }
           }
@@ -48,7 +46,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Android开发/笔记/进入Android开发/属性.md"
+                "file": "Android开发/笔记/Kotlin/Kotlin官方文档/kotlincn-docs.pdf"
               }
             }
           },
@@ -91,8 +89,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -112,7 +109,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Android开发/笔记/进入Android开发/属性.md",
+                "file": "Android开发/笔记/Kotlin/Kotlin官方文档/kotlincn-docs.pdf",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -129,7 +126,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Android开发/笔记/进入Android开发/属性.md",
+                "file": "Android开发/笔记/Kotlin/Kotlin官方文档/kotlincn-docs.pdf",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -186,16 +183,16 @@
   },
   "active": "ab63ccbddfcad33d",
   "lastOpenFiles": [
+    "Android开发/笔记/进入Android开发/@Composable 注解.md",
+    "Android开发/笔记/进入Android开发/报错记录总结.md",
+    "Android开发/笔记/进入Android开发/属性.md",
     "Android开发/图片/Pasted image 20231118224817.png",
     "Android开发/图片/Pasted image 20231118224805.png",
     "Android开发/笔记/UX_and_UI/Design/Design systems.md",
-    "Android开发/笔记/进入Android开发/属性.md",
     "Android开发/笔记/进入Android开发/Surviving configuration changes.md",
-    "Android开发/笔记/进入Android开发/报错记录总结.md",
     "Android开发/图片/6bb1654eb17ac8fff6493b0798070e2.png",
     "Android开发/笔记/进入Android开发/事件类型和修饰符.md",
     "Android开发/笔记/进入Android开发/XML 中的 UI 表示.md",
-    "Android开发/笔记/进入Android开发/@Composable 注解.md",
     "Android开发/笔记/进入Android开发/使用视图和XML：不足之处.md",
     "Android开发/笔记/进入Android开发/Previewing预览.md",
     "Android开发/笔记/进入Android开发/布局编辑器.md",
@@ -212,7 +209,6 @@
     "Android开发/图片/Pasted image 20231117154252.png",
     "Android开发/图片/Pasted image 20231117154214.png",
     "Android开发/图片/Pasted image 20231117154159.png",
-    "Android开发/图片/Pasted image 20231117154126.png",
     "Android开发/笔记/UX_and_UI/Design/微动画.md",
     "Android开发/笔记/进入Android开发",
     "Android开发/笔记/UX_and_UI/基础概念/导航中使用菜单图标.md",
