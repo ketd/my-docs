@@ -4,17 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "8c0cf37de1056057",
+        "id": "cde739733dd00d28",
         "type": "tabs",
         "children": [
           {
-            "id": "ab63ccbddfcad33d",
+            "id": "f7234da1dd58a6d5",
             "type": "leaf",
             "state": {
-              "type": "pdf",
-              "state": {
-                "file": "Android开发/笔记/Kotlin/Kotlin官方文档/kotlincn-docs.pdf"
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -45,9 +43,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Android开发/笔记/Kotlin/Kotlin官方文档/kotlincn-docs.pdf"
-              }
+              "state": {}
             }
           },
           {
@@ -109,7 +105,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Android开发/笔记/Kotlin/Kotlin官方文档/kotlincn-docs.pdf",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -126,7 +121,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Android开发/笔记/Kotlin/Kotlin官方文档/kotlincn-docs.pdf",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -178,11 +172,13 @@
       "command-palette:打开命令面板": false,
       "table-editor-obsidian:Advanced Tables Toolbar": false,
       "omnisearch:Omnisearch": false,
+      "translate:Open translation view": false,
       "obsidian-memos:Memos": false
     }
   },
-  "active": "ab63ccbddfcad33d",
+  "active": "f7234da1dd58a6d5",
   "lastOpenFiles": [
+    "Android开发/笔记/Kotlin/Kotlin官方文档/kotlincn-docs.pdf",
     "Android开发/笔记/进入Android开发/@Composable 注解.md",
     "Android开发/笔记/进入Android开发/报错记录总结.md",
     "Android开发/笔记/进入Android开发/属性.md",
@@ -223,7 +219,6 @@
     "Android开发/笔记/UX_and_UI/figma使用",
     "Android开发/笔记/UX_and_UI/基础概念",
     "Android开发/笔记/UX_and_UI/用户对象.docx",
-    "Android开发/笔记/Kotlin/Kotlin官方文档/kotlincn-docs.pdf",
     "Android开发/图片/黑人抬棺.mp4",
     "Android开发/笔记/UX_and_UI",
     "Android开发/笔记/Kotlin/kotlincn-docs.pdf",
