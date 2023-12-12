@@ -1,6 +1,46 @@
 {
   "recentFiles": [
     {
+      "basename": "属性",
+      "path": "Android开发/笔记/进入Android开发/属性.md"
+    },
+    {
+      "basename": "Previewing预览",
+      "path": "Android开发/笔记/进入Android开发/Previewing预览.md"
+    },
+    {
+      "basename": "XML 中的 UI 表示",
+      "path": "Android开发/笔记/进入Android开发/XML 中的 UI 表示.md"
+    },
+    {
+      "basename": "Surviving configuration changes",
+      "path": "Android开发/笔记/进入Android开发/Surviving configuration changes.md"
+    },
+    {
+      "basename": "Layers, groups and frames",
+      "path": "Android开发/笔记/UX_and_UI/figma使用/Layers, groups and frames.md"
+    },
+    {
+      "basename": "@Composable 注解",
+      "path": "Android开发/笔记/进入Android开发/@Composable 注解.md"
+    },
+    {
+      "basename": "报错记录总结",
+      "path": "Android开发/笔记/进入Android开发/报错记录总结.md"
+    },
+    {
+      "basename": "事件类型和修饰符",
+      "path": "Android开发/笔记/进入Android开发/事件类型和修饰符.md"
+    },
+    {
+      "basename": "使用视图和XML：不足之处",
+      "path": "Android开发/笔记/进入Android开发/使用视图和XML：不足之处.md"
+    },
+    {
+      "basename": "布局编辑器",
+      "path": "Android开发/笔记/进入Android开发/布局编辑器.md"
+    },
+    {
       "basename": "数字设计的类型",
       "path": "Android开发/笔记/UX_and_UI/基础概念/数字设计的类型.md"
     },
@@ -49,44 +89,8 @@
       "path": "Android开发/笔记/UX_and_UI/基础概念/表单设计最佳实践.md"
     },
     {
-      "basename": "属性",
-      "path": "Android开发/笔记/进入Android开发/属性.md"
-    },
-    {
       "basename": "RESTfulAPI",
       "path": "Android开发/笔记/Data  and  API/RESTfulAPI.md"
-    },
-    {
-      "basename": "事件类型和修饰符",
-      "path": "Android开发/笔记/进入Android开发/事件类型和修饰符.md"
-    },
-    {
-      "basename": "使用视图和XML：不足之处",
-      "path": "Android开发/笔记/进入Android开发/使用视图和XML：不足之处.md"
-    },
-    {
-      "basename": "布局编辑器",
-      "path": "Android开发/笔记/进入Android开发/布局编辑器.md"
-    },
-    {
-      "basename": "报错记录总结",
-      "path": "Android开发/笔记/进入Android开发/报错记录总结.md"
-    },
-    {
-      "basename": "@Composable 注解",
-      "path": "Android开发/笔记/进入Android开发/@Composable 注解.md"
-    },
-    {
-      "basename": "Surviving configuration changes",
-      "path": "Android开发/笔记/进入Android开发/Surviving configuration changes.md"
-    },
-    {
-      "basename": "XML 中的 UI 表示",
-      "path": "Android开发/笔记/进入Android开发/XML 中的 UI 表示.md"
-    },
-    {
-      "basename": "Previewing预览",
-      "path": "Android开发/笔记/进入Android开发/Previewing预览.md"
     },
     {
       "basename": "七、MyBatis-Plus高级用法：最优化持久层开发",
@@ -123,10 +127,6 @@
     {
       "basename": "导航中使用菜单图标",
       "path": "Android开发/笔记/UX_and_UI/基础概念/导航中使用菜单图标.md"
-    },
-    {
-      "basename": "Layers, groups and frames",
-      "path": "Android开发/笔记/UX_and_UI/figma使用/Layers, groups and frames.md"
     },
     {
       "basename": "排版和最佳实践",
